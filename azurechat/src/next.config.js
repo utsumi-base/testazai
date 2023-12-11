@@ -5,8 +5,8 @@ const nextConfig = {
     serverActions: {
       allowedOrigins: [
         'localhost:3000',
+        'https://cautious-space-waddle-rvj5g45j7936px-3000.app.github.dev/'
         // ここでCodespaceのURLのOriginを指定する
-        ''
       ],
     },
   },
